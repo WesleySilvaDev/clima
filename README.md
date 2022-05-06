@@ -1,4 +1,4 @@
 
-Execute yarn install
+Execute: yarn install
 <br>
-Execute yarn serve
+Execute: yarn serve
