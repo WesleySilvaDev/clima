@@ -1,2 +1,3 @@
-# Execute yarn install
-# Execute yarn serve
+
+Execute yarn install
+Execute yarn serve
